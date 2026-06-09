@@ -132,10 +132,10 @@ streamlit run app/streamlit_app.py
 
 ## 👨‍💻 Author
 
-**Your Name**  
-Data Scientist | Freelancer  
-📧 your@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**Priyanshi Sharma**  
+Data Scientist  
+📧 priyanshisharma9490@email.com  
+
 
 ---
 
